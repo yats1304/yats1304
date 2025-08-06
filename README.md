@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 ![Yatish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yats1304&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yats1304&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yats1304&layout=compact)
 
 ---
 
