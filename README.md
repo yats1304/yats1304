@@ -26,8 +26,7 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yatish-chaubal-03331b206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yatish-chaubal-03331b206?trk=profile-badge">Yatish Chaubal</a></div>
   </a>
   <a href="https://x.com/Yatish17948398" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
