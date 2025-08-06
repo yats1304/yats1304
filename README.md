@@ -24,12 +24,13 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with me
+
 <p align="left">
-  <a href="https://linkedin.com/in/yatish-chaubal-03331b206/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/Yatish17948398" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" />
+  <a href="https://x.com/Yatish17948398" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
