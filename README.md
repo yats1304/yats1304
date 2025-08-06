@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yatish Chaubal</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [TMDB Movie Browser](https://github.com/yats1304/movie-browser-tmdb)
 
 - 🌱 I’m currently learning **React, TailwindCSS, Vite, and API Integration**
 
