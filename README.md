@@ -35,7 +35,7 @@ const yatish = {
 
 ## 🎯 Current Focus
 
-<table>
+<table cellspacing="20" > <!-- Add spacing between columns -->
 <tr>
 <td width="50%">
 
@@ -47,11 +47,11 @@ const yatish = {
 - **TypeScript** Advanced Concepts
 
 </td>
-<td width="50%">
+<td width="50%" >
 
 ### 🔥 Recent Achievements
 - ✅ Built **PDF Highlight Hub** (Full-stack)
-- ✅ Created **Tasty Treat Cafe** (95+ Lighthouse)
+- ✅ Created **Tasty Treat Cafe**
 - ✅ **10+ GitHub** repositories maintained
 - ✅ **Computer Engineering** Graduate
 - ✅ **Multiple certifications** completed
@@ -59,6 +59,7 @@ const yatish = {
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -142,11 +143,11 @@ const yatish = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yats1304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yats1304&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yats1304&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://git-hub-streak-stats.vercel.app/?user=yats1304&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
+<br/>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yats1304&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
