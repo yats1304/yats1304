@@ -117,17 +117,18 @@ const yatish = {
 
 <td width="50%" align="center">
   <h3>🍕 Tasty Treat Cafe</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=Tasty-Treat-Cafe&theme=tokyonight" alt="Tasty Treat Cafe" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=tasty_treat_cafe&theme=tokyonight" alt="Tasty Treat Cafe" />
   <br><br>
   <p><strong>Restaurant Web Application</strong></p>
   <p>React.js • Material-UI • Google Maps API</p>
   <a href="https://tasty-treat-cafe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
-  <a href="https://github.com/yats1304/Tasty-Treat-Cafe" target="_blank">
+  <a href="https://github.com/yats1304/tasty_treat_cafe" target="_blank">
     <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github" alt="Source Code" />
   </a>
 </td>
+
 </tr>
 </table>
 
