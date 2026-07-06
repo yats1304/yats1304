@@ -1,166 +1,204 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yatish+Chaubal;Full-Stack+Web+Developer" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=220&section=header&text=Yatish%20Chaubal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Developer%20@%20Frovo&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+web+apps+%26+microservices;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yats1304&label=Profile%20Views&color=9d4edd&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/yats1304?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyats1304&style=for-the-badge" alt="Repos" />
+<img src="https://img.shields.io/badge/dynamic/json?color=orange&label=⭐%20Stars&query=$.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyats1304%2Frepos%3Fper_page%3D100&style=for-the-badge" alt="Stars" />
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yats1304&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yats1304?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
----
+<br/>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+- 💼 **Software Developer @ Frovo** — building full-stack apps, REST APIs & microservices
+- 🏗️ I love turning messy problems into clean, scalable architecture
+- 🎯 Currently deep in **system design**, **event-driven microservices (Kafka)**, and **Next.js 15**
+- 🧠 Shipped **HireNest** — an AI-powered job portal with Redis, Kafka & Docker on AWS EC2
+- 📈 Boosted a production Lighthouse score from **78 → 96**
+- ⚡ Fun fact: I debug with `console.log()` and I'm proud of it
 
-```js
-const yatish = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "React", "Node.js", "MongoDB", "UI/UX"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind CSS", "Material-UI", "Bootstrap"],
-    backEnd: ["Node.js", "Express.js", "MongoDB", "MySQL", "REST APIs", "JWT"],
-    devOps: ["Vercel", "Render", "Git", "GitHub"],
-    tools: ["VS Code", "Postman", "Figma"]
-  },
-  currentFocus: "Building scalable full-stack applications",
-  funFact: "I debug with console.log() and I'm proud of it!"
-};
-```
+<br clear="right"/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,postgres,mongodb,mysql,redis,kafka,docker,aws,nginx,git,github,vscode,postman,figma&perline=11" alt="Tech Stack"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Frontend | Backend | Database | DevOps & Cloud |
+|:---:|:---:|:---:|:---:|
+| React.js | Node.js | PostgreSQL | AWS EC2 |
+| Next.js | Express.js | MongoDB | Docker |
+| Redux | REST APIs | MySQL | Nginx |
+| Tailwind CSS | Kafka | Redis | Git / GitHub |
+| Material-UI | JWT Auth | — | Vercel / Render |
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-<table cellspacing="20" > <!-- Add spacing between columns -->
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 Currently Learning
-- **Advanced React Patterns** & **Next.js 15**
-- **Node.js & Express.js** Backend Development
-- **MongoDB** Database Design
-- **System Design** & **Clean Architecture**
-- **TypeScript** Advanced Concepts
+- 🏛️ **System Design** & Clean Architecture
+- 📨 **Kafka** for event-driven microservices
+- 🐳 **Docker** & container orchestration
+- ⚛️ **Advanced React Patterns** with Next.js 15
+- ☁️ **AWS** deployment & scaling
 
 </td>
-<td width="50%" >
+<td width="50%" valign="top">
 
-### 🔥 Recent Achievements
-- ✅ Built **PDF Highlight Hub** (Full-stack)
-- ✅ Created **Tasty Treat Cafe**
-- ✅ **10+ GitHub** repositories maintained
-- ✅ **Computer Engineering** Graduate
-- ✅ **Multiple certifications** completed
+### 🔥 Recent Wins
+- ✅ Live at **Frovo** — full-time, remote
+- ✅ **HireNest** — microservices job portal
+- ✅ **PDF Highlight Hub** — full-stack SaaS
+- ✅ Lighthouse score **78 → 96** 📈
+- ✅ **B.E. Computer Engineering** graduate 🎓
 
 </td>
 </tr>
 </table>
 
-
----
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
-  
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
 </div>
-
----
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  
+
 <table>
 <tr>
 <td width="50%" align="center">
-  <h3>🎯 PDF Highlight Hub</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=Pdf_HighlightHub&theme=tokyonight" alt="PDF Highlight Hub" />
-  <br><br>
-  <p><strong>Full-Stack PDF Annotation Platform</strong></p>
-  <p>Next.js • Node.js • MongoDB • JWT Auth</p>
-  <a href="https://pdf-highlight-hub.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/yats1304/Pdf_HighlightHub" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github" alt="Source Code" />
-  </a>
-</td>
 
+### 💼 HireNest
+**AI-Powered Job Portal** · Microservices
+
+Next.js · Node.js · PostgreSQL · Redis · Kafka · Docker · AWS EC2
+
+Razorpay subscriptions · AI resume analyzer · career guidance
+
+<!-- add your live demo / repo badges here -->
+<img src="https://img.shields.io/badge/Status-In%20Production-brightgreen?style=for-the-badge"/>
+
+</td>
 <td width="50%" align="center">
-  <h3>🍕 Tasty Treat Cafe</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=tasty_treat_cafe&theme=tokyonight" alt="Tasty Treat Cafe" />
-  <br><br>
-  <p><strong>Restaurant Web Application</strong></p>
-  <p>React.js • Material-UI • Google Maps API</p>
-  <a href="https://tasty-treat-cafe.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/yats1304/tasty_treat_cafe" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github" alt="Source Code" />
-  </a>
-</td>
 
+### 🎯 PDF Highlight Hub
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=Pdf_HighlightHub&theme=radical" alt="PDF Highlight Hub"/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=vercel)](https://pdf-highlight-hub.vercel.app/)
+[![Source](https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/yats1304/Pdf_HighlightHub)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🍕 Tasty Treat Cafe
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=tasty_treat_cafe&theme=radical" alt="Tasty Treat Cafe"/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=vercel)](https://tasty-treat-cafe.vercel.app/)
+[![Source](https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/yats1304/tasty_treat_cafe)
+
+</td>
+<td width="50%" align="center">
+
+### ☁️ Klimate
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=klimate&theme=radical" alt="Klimate"/>
+
+[![Source](https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/yats1304/klimate)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🎬 Movie Browser (TMDB)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=movie-browser-tmdb&theme=radical" alt="Movie Browser"/>
+
+[![Source](https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/yats1304/movie-browser-tmdb)
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 AI Chatbot
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yats1304&repo=Chatbot_React&theme=radical" alt="Chatbot"/>
+
+[![Source](https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/yats1304/Chatbot_React)
+
+</td>
 </tr>
 </table>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yats1304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yats1304&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=yats1304&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yats1304&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yats1304&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yats1304&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yats1304&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yats1304&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yats1304/yats1304/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+> 💡 One-time setup: add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo to activate this animated contribution snake.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
+</div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yats1304&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yats1304&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
+</div>
 
 ## 📫 Let's Connect!
 
@@ -174,39 +212,25 @@ const yatish = {
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
+</div>
 
 ## 🎭 Fun Zone
 
 <div align="center">
 
-### 💭 Developer Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-### 😄 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-
-### 🎵 Currently Vibing To
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31gnonrxq3eoqstozsmeo2g6uo5m)](https://open.spotify.com/user/31gnonrxq3eoqstozsmeo2g6uo5m)
-
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="48%"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" width="48%"/>
 
 </div>
 
----
-
 <div align="center">
-  
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thanks for stopping by! Let's build something amazing together! 🚀**
+### 🎯 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
+**⭐ Thanks for stopping by — let's build something amazing together! 🚀**
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=150&section=footer" width="100%"/>
 
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/yats1304">yats1304</a> with ❤️</i>
 </div>
