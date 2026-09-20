@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-labelledby="title">
+  <title id="title">PDF Highlight Hub sketch: a document page with two highlighted passages, each linked to a note.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F1922"/>
+      <stop offset="1" stop-color="#080D13"/>
+    </linearGradient>
+    <radialGradient id="haze" cx="0.3" cy="0.6" r="0.6">
+      <stop stop-color="#27444B" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#080D13" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect x="0.75" y="0.75" width="598.5" height="238.5" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="600" height="240" fill="url(#bg)"/>
+    <rect width="600" height="240" fill="url(#haze)"/>
+
+    <!-- Page, running off the bottom edge -->
+    <rect x="64" y="36" width="270" height="230" rx="10" fill="#121B26" stroke="#2B3D4A"/>
+    <rect x="88" y="60" width="118" height="10" rx="3" fill="#5A7284"/>
+
+    <!-- Highlights sit under the text lines -->
+    <rect x="84" y="118" width="154" height="19" rx="4" fill="#FF9659" fill-opacity="0.32"/>
+    <rect x="140" y="172" width="174" height="19" rx="4" fill="#6FB3C2" fill-opacity="0.28"/>
+
+    <g fill="#2E4050">
+      <rect x="88" y="88" width="222" height="7" rx="3"/>
+      <rect x="88" y="106" width="204" height="7" rx="3"/>
+      <rect x="88" y="142" width="180" height="7" rx="3"/>
+      <rect x="88" y="160" width="222" height="7" rx="3"/>
+      <rect x="88" y="196" width="160" height="7" rx="3"/>
+      <rect x="88" y="214" width="222" height="7" rx="3"/>
+    </g>
+    <rect x="88" y="124" width="222" height="7" rx="3" fill="#C9A58F"/>
+    <rect x="88" y="178" width="222" height="7" rx="3" fill="#8FB4BD"/>
+
+    <!-- Links from highlight to note -->
+    <g fill="none" stroke-width="1.4">
+      <path d="M238 127.5C312 127.5 310 85 380 85" stroke="#FF9659" stroke-opacity="0.7"/>
+      <path d="M314 181.5C352 181.5 346 155 380 155" stroke="#6FB3C2" stroke-opacity="0.7"/>
+    </g>
+
+    <!-- Notes -->
+    <g fill="#131D28" stroke="#2B3D4A">
+      <rect x="380" y="58" width="188" height="54" rx="8"/>
+      <rect x="380" y="128" width="188" height="54" rx="8"/>
+    </g>
+    <rect x="380" y="70" width="3" height="30" rx="1.5" fill="#FF9659"/>
+    <rect x="380" y="140" width="3" height="30" rx="1.5" fill="#6FB3C2"/>
+    <g fill="#3B5162">
+      <rect x="400" y="76" width="92" height="6" rx="3"/>
+      <rect x="400" y="90" width="144" height="6" rx="3"/>
+      <rect x="400" y="146" width="120" height="6" rx="3"/>
+      <rect x="400" y="160" width="84" height="6" rx="3"/>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="598.5" height="238.5" rx="14" fill="none" stroke="#24313D" stroke-width="1.5"/>
+</svg>
