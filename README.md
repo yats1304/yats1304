@@ -1,265 +1,109 @@
-<div align="center">
+<!-- Profile README for github.com/yats1304/yats1304. Keep assets/profile-header.svg alongside this file. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=220&section=header&text=Yatish%20Chaubal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Developer%20@%20Frovo&descAlignY=55&descSize=20" width="100%"/>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Yatish Chaubal — Software Developer at Schach Engineers. Full-stack development and Go backend engineering." />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Building+scalable+web+apps+%26+microservices;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB" alt="Typing SVG" />
+<p align="center">
+  <a href="https://portfolio-bice-psi-56.vercel.app/"><strong>Portfolio ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:chaubaly@gmail.com"><strong>Email ↗</strong></a>
+</p>
 
-<br/>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=yats1304&label=Views&color=9d4edd&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/yats1304?label=Followers&style=flat-square&color=00d9ff" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyats1304&style=flat-square" alt="Repos" />
+I’m a **Software Developer at Schach Engineers**, building backend APIs, full-stack applications, and internal business systems. My core backend stack is **Go, Gin, Encore, PostgreSQL, and GORM v2**, paired with **React, Next.js, and TypeScript** on the frontend.
 
-</div>
+My work spans API implementation, database integration, application performance, and production deployment.
 
-<br/>
+## Work & impact
 
-## 🚀 About Me
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><strong>BACKEND ENGINEERING</strong></sub>
+      <h3>APIs & business systems</h3>
+      <p>REST APIs, authentication and authorization, business workflows, and external integrations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <sub><strong>FULL-STACK DELIVERY</strong></sub>
+      <h3>Interface to deployment</h3>
+      <p>React and Next.js applications, internal dashboards, and deployments with Docker, Linux, and Nginx.</p>
+    </td>
+    <td width="33%" valign="top">
+      <sub><strong>MEASURED IMPACT</strong></sub>
+      <h3>78 → 96</h3>
+      <p>Raised a production Lighthouse performance score by 18 points.</p>
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## Selected projects
 
-- 💼 **Software Developer @ Frovo** — building full-stack apps, REST APIs & microservices
-- 🏗️ I love turning messy problems into clean, scalable architecture
-- 🎯 Currently deep in **system design**, **event-driven microservices (Kafka)**, and **Next.js 15**
-- 🧠 Shipped **HireNest** — an AI-powered job portal with Redis, Kafka & Docker on AWS EC2
-- 📈 Boosted a production Lighthouse score from **78 → 96**
-- ⚡ Fun fact: I debug with `console.log()` and I'm proud of it
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong>MICROSERVICES · AI · SUBSCRIPTIONS</strong></sub>
+      <h3>HireNest</h3>
+      <p><strong>AI-powered job platform</strong></p>
+      <p>A microservices-based platform combining AI resume analysis, career guidance, and Razorpay subscriptions.</p>
+      <p><strong>Engineering focus:</strong> Redis caching, Kafka-based services, and Dockerized deployment on AWS EC2.</p>
+      <p><code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code> <code>AWS EC2</code></p>
+      <!-- Add a verified HireNest source or demo link here when available. -->
+    </td>
+    <td width="50%" valign="top">
+      <sub><strong>FULL-STACK · DOCUMENT TOOLS</strong></sub>
+      <h3>PDF Highlight Hub</h3>
+      <p><strong>PDF annotation platform</strong></p>
+      <p>A full-stack application for highlighting, annotating, and managing PDF content.</p>
+      <p><strong>Engineering focus:</strong> A Next.js and TypeScript interface, a Node.js backend, MongoDB, and JWT authentication.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code></p>
+      <p><a href="https://pdf-highlight-hub.vercel.app/"><strong>Live demo ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/yats1304/Pdf_HighlightHub"><strong>Source code ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-<br clear="right"/>
+<details>
+<summary><strong>Explore four more projects</strong></summary>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
-</div>
+<br />
 
-## 🛠️ Tech Stack
+| Project | What it does | Built with | Explore |
+| :--- | :--- | :--- | :--- |
+| **Tasty Treat Cafe** | Restaurant menu browsing and location support. | React, Material UI, Google Maps API | [Demo](https://tasty-treat-cafe.vercel.app/) · [Code](https://github.com/yats1304/tasty_treat_cafe) |
+| **Klimate** | Weather forecasts, city search, and saved locations. | React, TypeScript, OpenWeatherMap API | [Code](https://github.com/yats1304/klimate) |
+| **Movie Browser** | Movie discovery and search using live TMDB data. | React, TMDB API | [Code](https://github.com/yats1304/movie-browser-tmdb) |
+| **AI Chatbot** | Real-time conversations powered by Gemini. | React, Gemini API | [Code](https://github.com/yats1304/Chatbot_React) |
 
-<div align="center">
+</details>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,postgres,mongodb,mysql,redis,kafka,docker,aws,nginx,git,github,vscode,postman,figma&perline=11" alt="Tech Stack"/>
+## Technical toolkit
 
-</div>
+| Area | Technologies |
+| :--- | :--- |
+| **Core backend** | **Go · Gin · Encore · GORM v2 · REST APIs** |
+| **Frontend** | React · Next.js · TypeScript · Redux · Tailwind CSS · Material UI |
+| **Data & messaging** | PostgreSQL · Redis · MongoDB · MySQL · Kafka |
+| **Additional backend** | Node.js · Express.js · FastAPI |
+| **Deployment & tools** | Docker · AWS EC2 · Nginx · Linux · Git · GitHub · Vercel · Render |
 
-<br/>
+## Deepening my expertise
 
-<div align="center">
-
-| Frontend | Backend | Database | DevOps & Cloud |
-|:---:|:---:|:---:|:---:|
-| React.js | Node.js | PostgreSQL | AWS EC2 |
-| Next.js | Express.js | MongoDB | Docker |
-| Redux | REST APIs | MySQL | Nginx |
-| Tailwind CSS | Kafka | Redis | Git / GitHub |
-| Material-UI | JWT Auth | — | Vercel / Render |
-
-</div>
+Advanced Go, system design, PostgreSQL optimization, GORM v2 patterns, event-driven architecture, and observability—with an emphasis on maintainable services and production reliability.
 
 ---
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-- 🏛️ **System Design** & Clean Architecture
-- 📨 **Kafka** for event-driven microservices
-- 🐳 **Docker** & container orchestration
-- ⚛️ **Advanced React Patterns** with Next.js 15
-- ☁️ **AWS** deployment & scaling
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 Recent Wins
-- ✅ Live at **Frovo** — full-time, remote
-- ✅ **HireNest** — microservices job portal
-- ✅ **PDF Highlight Hub** — full-stack SaaS
-- ✅ Lighthouse score **78 → 96** 📈
-- ✅ **B.E. Computer Engineering** graduate 🎓
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 💼 HireNest
-**AI-Powered Job Portal** · Microservices
-
-`Next.js` `Node.js` `PostgreSQL` `Redis` `Kafka` `Docker` `AWS EC2`
-
-Razorpay subscriptions · AI resume analyzer · career guidance
-
-<!-- add your live demo / repo links here -->
-![Status](https://img.shields.io/badge/Status-In%20Production-brightgreen?style=flat-square)
-
-</td>
-<td width="50%" align="center">
-
-### 🎯 PDF Highlight Hub
-Full-stack PDF annotation & highlighting platform
-
-`Next.js` `TypeScript` `Node.js` `MongoDB` `JWT`
-
-![Live](https://img.shields.io/badge/Live-online-success?style=flat-square&logo=vercel)
-![Lang](https://img.shields.io/github/languages/top/yats1304/Pdf_HighlightHub?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/yats1304/Pdf_HighlightHub?style=flat-square)
-
-[🔗 Live Demo](https://pdf-highlight-hub.vercel.app/) · [💻 Source](https://github.com/yats1304/Pdf_HighlightHub)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🍕 Tasty Treat Cafe
-Restaurant menu & location web app
-
-`React.js` `Material-UI` `Google Maps API`
-
-![Lang](https://img.shields.io/github/languages/top/yats1304/tasty_treat_cafe?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/yats1304/tasty_treat_cafe?style=flat-square)
-
-[🔗 Live Demo](https://tasty-treat-cafe.vercel.app/) · [💻 Source](https://github.com/yats1304/tasty_treat_cafe)
-
-</td>
-<td width="50%" align="center">
-
-### ☁️ Klimate
-Weather app with forecasts, search & favorites
-
-`React` `TypeScript` `OpenWeatherMap API`
-
-![Lang](https://img.shields.io/github/languages/top/yats1304/klimate?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/yats1304/klimate?style=flat-square)
-
-[💻 Source](https://github.com/yats1304/klimate)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🎬 Movie Browser (TMDB)
-Movie discovery app with search & live data
-
-`React.js` `TMDB API`
-
-![Lang](https://img.shields.io/github/languages/top/yats1304/movie-browser-tmdb?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/yats1304/movie-browser-tmdb?style=flat-square)
-
-[💻 Source](https://github.com/yats1304/movie-browser-tmdb)
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 AI Chatbot
-Real-time AI conversations powered by Gemini
-
-`React.js` `Gemini 2.5 API`
-
-![Lang](https://img.shields.io/github/languages/top/yats1304/Chatbot_React?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/yats1304/Chatbot_React?style=flat-square)
-
-[💻 Source](https://github.com/yats1304/Chatbot_React)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yats1304&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yats1304&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yats1304&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yats1304&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yats1304/yats1304/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-> 
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yats1304&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatish-chaubal-03331b206/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yats1304)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-bice-psi-56.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaubaly@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Yatish17948398)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=2&section=header&width=100%"/>
-</div>
-
-## 🎭 Fun Zone
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="48%"/>
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" width="48%"/>
-
-</div>
-
-<div align="center">
-
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-**⭐ Thanks for stopping by — let's build something amazing together! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=150&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <strong>Let’s talk about what you’re building.</strong><br />
+  <a href="mailto:chaubaly@gmail.com">chaubaly@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio-bice-psi-56.vercel.app/">Portfolio</a>
+</p>
+
+<p align="center">
+  <sub><a href="https://github.com/yats1304">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/Yatish17948398">X</a></sub>
+</p>
