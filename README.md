@@ -1,41 +1,42 @@
-<!-- Profile README for github.com/yats1304/yats1304. Keep assets/profile-header.svg alongside this file. -->
+<!--
+  Profile README for github.com/yats1304/yats1304
+  Keep these four files in ./assets next to this README:
+  profile-header.svg, project-hirenest.svg, project-pdf-highlight-hub.svg, footer-cta.svg
+-->
 
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Yatish Chaubal — Software Developer at Schach Engineers. Full-stack development and Go backend engineering." />
+  <img src="./assets/profile-header.svg" width="100%" alt="Yatish Chaubal. Full-stack developer, backend-focused. Software Developer at Schach Engineers. React and Next.js, Go with Gin and Encore, PostgreSQL with GORM v2." />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-bice-psi-56.vercel.app/"><strong>Portfolio ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/"><strong>LinkedIn ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:chaubaly@gmail.com"><strong>Email ↗</strong></a>
+  <a href="https://portfolio-bice-psi-56.vercel.app/"><strong>Portfolio</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="mailto:chaubaly@gmail.com"><strong>Email</strong></a>
 </p>
 
 <br />
 
-I’m a **Software Developer at Schach Engineers**, building backend APIs, full-stack applications, and internal business systems. My core backend stack is **Go, Gin, Encore, PostgreSQL, and GORM v2**, paired with **React, Next.js, and TypeScript** on the frontend.
+I'm a **Software Developer at Schach Engineers**, building backend APIs, full-stack applications, and internal business systems. I work mainly in **Go** with Gin, Encore, PostgreSQL, and GORM v2, paired with **React, Next.js, and TypeScript** on the frontend.
 
-My work spans API implementation, database integration, application performance, and production deployment.
+I take work from API design and database integration through performance tuning to production deployment.
 
-## Work & impact
+## What I do
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <sub><strong>BACKEND ENGINEERING</strong></sub>
-      <h3>APIs & business systems</h3>
+      <h3>APIs and business systems</h3>
       <p>REST APIs, authentication and authorization, business workflows, and external integrations.</p>
     </td>
     <td width="33%" valign="top">
-      <sub><strong>FULL-STACK DELIVERY</strong></sub>
       <h3>Interface to deployment</h3>
       <p>React and Next.js applications, internal dashboards, and deployments with Docker, Linux, and Nginx.</p>
     </td>
     <td width="33%" valign="top">
-      <sub><strong>MEASURED IMPACT</strong></sub>
-      <h3>78 → 96</h3>
-      <p>Raised a production Lighthouse performance score by 18 points.</p>
+      <h3>Lighthouse 78 to 96</h3>
+      <p>Raised the performance score of a production application by 18 points.</p>
     </td>
   </tr>
 </table>
@@ -45,7 +46,7 @@ My work spans API implementation, database integration, application performance,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><strong>MICROSERVICES · AI · SUBSCRIPTIONS</strong></sub>
+      <img src="./assets/project-hirenest.svg" width="100%" alt="HireNest architecture sketch: a Next.js client calling resume, guidance, and subscription services, connected by Kafka to Redis and PostgreSQL." />
       <h3>HireNest</h3>
       <p><strong>AI-powered job platform</strong></p>
       <p>A microservices-based platform combining AI resume analysis, career guidance, and Razorpay subscriptions.</p>
@@ -54,56 +55,60 @@ My work spans API implementation, database integration, application performance,
       <!-- Add a verified HireNest source or demo link here when available. -->
     </td>
     <td width="50%" valign="top">
-      <sub><strong>FULL-STACK · DOCUMENT TOOLS</strong></sub>
+      <a href="https://pdf-highlight-hub.vercel.app/"><img src="./assets/project-pdf-highlight-hub.svg" width="100%" alt="PDF Highlight Hub sketch: a document page with two highlighted passages, each linked to a note." /></a>
       <h3>PDF Highlight Hub</h3>
       <p><strong>PDF annotation platform</strong></p>
       <p>A full-stack application for highlighting, annotating, and managing PDF content.</p>
       <p><strong>Engineering focus:</strong> A Next.js and TypeScript interface, a Node.js backend, MongoDB, and JWT authentication.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code></p>
-      <p><a href="https://pdf-highlight-hub.vercel.app/"><strong>Live demo ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/yats1304/Pdf_HighlightHub"><strong>Source code ↗</strong></a></p>
+      <p><a href="https://pdf-highlight-hub.vercel.app/"><strong>Live demo</strong></a> &nbsp;/&nbsp; <a href="https://github.com/yats1304/Pdf_HighlightHub"><strong>Source code</strong></a></p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>Explore four more projects</strong></summary>
-
+<summary><strong>Four more projects</strong></summary>
 <br />
 
-| Project | What it does | Built with | Explore |
+| Project | What it does | Built with | Links |
 | :--- | :--- | :--- | :--- |
-| **Tasty Treat Cafe** | Restaurant menu browsing and location support. | React, Material UI, Google Maps API | [Demo](https://tasty-treat-cafe.vercel.app/) · [Code](https://github.com/yats1304/tasty_treat_cafe) |
-| **Klimate** | Weather forecasts, city search, and saved locations. | React, TypeScript, OpenWeatherMap API | [Code](https://github.com/yats1304/klimate) |
-| **Movie Browser** | Movie discovery and search using live TMDB data. | React, TMDB API | [Code](https://github.com/yats1304/movie-browser-tmdb) |
-| **AI Chatbot** | Real-time conversations powered by Gemini. | React, Gemini API | [Code](https://github.com/yats1304/Chatbot_React) |
+| **Tasty Treat Cafe** | Restaurant menu browsing and location support. | React, Material UI, Google Maps API | [Live demo](https://tasty-treat-cafe.vercel.app/) / [Source](https://github.com/yats1304/tasty_treat_cafe) |
+| **Klimate** | Weather forecasts, city search, and saved locations. | React, TypeScript, OpenWeatherMap API | [Source](https://github.com/yats1304/klimate) |
+| **Movie Browser** | Movie discovery and search using live TMDB data. | React, TMDB API | [Source](https://github.com/yats1304/movie-browser-tmdb) |
+| **AI Chatbot** | Real-time conversations powered by Gemini. | React, Gemini API | [Source](https://github.com/yats1304/Chatbot_React) |
 
 </details>
 
-## Technical toolkit
+## Toolkit
 
 | Area | Technologies |
 | :--- | :--- |
-| **Core backend** | **Go · Gin · Encore · GORM v2 · REST APIs** |
-| **Frontend** | React · Next.js · TypeScript · Redux · Tailwind CSS · Material UI |
-| **Data & messaging** | PostgreSQL · Redis · MongoDB · MySQL · Kafka |
-| **Additional backend** | Node.js · Express.js · FastAPI |
-| **Deployment & tools** | Docker · AWS EC2 · Nginx · Linux · Git · GitHub · Vercel · Render |
+| **Core backend** | **Go, Gin, Encore, GORM v2, REST APIs** |
+| **Frontend** | React, Next.js, TypeScript, Redux, Tailwind CSS, Material UI |
+| **Data and messaging** | PostgreSQL, Redis, MongoDB, MySQL, Kafka |
+| **Additional backend** | Node.js, Express.js, FastAPI |
+| **Deployment and tools** | Docker, AWS EC2, Nginx, Linux, Git, GitHub, Vercel, Render |
 
-## Deepening my expertise
+## What I'm studying now
 
-Advanced Go, system design, PostgreSQL optimization, GORM v2 patterns, event-driven architecture, and observability—with an emphasis on maintainable services and production reliability.
+Advanced Go, system design, PostgreSQL optimization, GORM v2 patterns, event-driven architecture, and observability, with an emphasis on maintainable services and production reliability.
 
----
+<br />
 
 <p align="center">
-  <strong>Let’s talk about what you’re building.</strong><br />
-  <a href="mailto:chaubaly@gmail.com">chaubaly@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://portfolio-bice-psi-56.vercel.app/">Portfolio</a>
+  <a href="mailto:chaubaly@gmail.com"><img src="./assets/footer-cta.svg" width="100%" alt="Let's talk about what you're building. Email chaubaly@gmail.com" /></a>
 </p>
 
 <p align="center">
-  <sub><a href="https://github.com/yats1304">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/Yatish17948398">X</a></sub>
+  <sub>
+    <a href="mailto:chaubaly@gmail.com">chaubaly@gmail.com</a>
+    &nbsp;/&nbsp;
+    <a href="https://www.linkedin.com/in/yatish-chaubal-03331b206/">LinkedIn</a>
+    &nbsp;/&nbsp;
+    <a href="https://portfolio-bice-psi-56.vercel.app/">Portfolio</a>
+    &nbsp;/&nbsp;
+    <a href="https://github.com/yats1304">GitHub</a>
+    &nbsp;/&nbsp;
+    <a href="https://x.com/Yatish17948398">X</a>
+  </sub>
 </p>
